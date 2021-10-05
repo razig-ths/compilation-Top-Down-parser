@@ -8,11 +8,12 @@
 
 1. run the file with NetbeansIDE
 
-![the default runing](/home/razig/0.jpg)
+   ![the default runing](0.jpg)
 
 2. press **show file ** and put your sentence 
 3. press **run** 
- ![running the parser](/home/razig/1.jpg)
+
+   ![running the parser](1.jpg)
 
 
 
