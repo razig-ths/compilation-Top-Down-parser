@@ -1,0 +1,5 @@
+Expression=Term AS 
+AS=+ Term AS |- Term AS |EPSILO 
+Term=Factor MS 
+MS=* Factor MS |/ Factor MS |EPSILO 
+Factor=Integer |Identifier |( Expression ) 
